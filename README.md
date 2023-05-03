@@ -5,6 +5,3 @@ to run:
 - cd frontend && npm install && cd ..
 - create .env file using the example
 - npm run dev
-
-Demo: https://cerulean-pika-d58572.netlify.app/
-
